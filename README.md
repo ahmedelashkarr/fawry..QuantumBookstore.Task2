@@ -1,3 +1,10 @@
+## 🧪 How to Run
+
+- Get the project by cloning or downloading it  
+- Open it using IntelliJ IDEA  
+- Make sure Java is installed and configured  
+- Run `Main.java` or any other class you create for testing
+  
 ** Quantum Bookstore **
 * You Can
   - Add Books To invnetory (PaperBook ,EBook ,DemoBook)
