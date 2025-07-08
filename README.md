@@ -28,7 +28,7 @@ Screenshot for main 2:
 
 Screenshot for output 2
 --remove 2 books from 3 
---show the total price fot 3rd book 
+--show the total price for 3rd book 
   ![image](https://github.com/user-attachments/assets/8dec0a34-a166-4d7b-bc1e-68f2ed2e1446)
 
 
